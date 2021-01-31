@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(236, 231, 225);
+}
+.header{
+    background-color: #f8f9fa;
+}
+.main-title{
+    margin-left: 1rem;
+    font-size: 3rem;
+}
